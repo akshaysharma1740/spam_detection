@@ -22,7 +22,6 @@ This project classifies messages as spam or not spam using a trained machine lea
 4. **Output:** The result is displayed on the web page.
 
 ## 🚀 Getting Started
-1. Clone the repository:
 ```bash
 git clone https://github.com/akshaysharma1740/spam_detection.git
 cd spam_detection
