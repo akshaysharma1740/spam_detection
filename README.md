@@ -8,7 +8,7 @@ This project classifies messages as spam or not spam using a trained machine lea
 - Supports bulk predictions with preprocessed text.
 - Easy to deploy and extend.
 
-## Tech Stack
+## 📌 Tech Stack
 - Python
 - Flask
 - scikit-learn
@@ -40,3 +40,6 @@ User enters: "Congratulations! You won a lottery."
 Output: Spam
 User enters: "Hey, are we meeting tomorrow?"
 Output: Not Spam
+
+👨‍💻 Author
+Developed by Akshay Sharma.
